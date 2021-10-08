@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hello World! 👋
+My name is Leon. Welcome to my GitHub profile.
 
+I'm a Software Engineering & Management student at McMaster University. To find out more about me, please visit my [LinkedIn](https://www.linkedin.com/in/leon-so/)!
+
+- 📚 Software Engineering & Management @McMaster University (Expected Graduation 2023)
+- 🤠 Some of my hobbies include: fishing, hiking, woodworking, DIY projects, trying new foods, and visiting new places!
 <!--
 **LeonSo7/LeonSo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
