@@ -1,5 +1,5 @@
 ### Hello World! 👋
-Welcome to my GitHub profile. My name is Leon. 
+My name is Leon. Welcome to my GitHub profile. 
 
 I'm a Software Engineering & Management student at McMaster University. To find out more about me, please visit my [LinkedIn](https://www.linkedin.com/in/leon-so/)!
 
