@@ -5,4 +5,4 @@ I'm a Software Engineering & Management student at McMaster University. To find 
 
 - 📚 Software Engineering & Management @McMaster University (Expected Graduation 2023)
 - 👨🏻‍💻 Some places that I've worked: Amazon, IBM
-- 🤠 Some of my hobbies include: fishing, hiking, woodworking, DIY projects, trying new foods, and visiting new places!
+- 🤠 Some of my hobbies: fishing, boating, swimming, hiking, woodworking, DIY projects, trying new foods, and visiting new places!
