@@ -1,7 +1,7 @@
 ### Hello World! 👋🏻
 My name is Leon. Welcome to my GitHub profile. 
 
-I'm an Incoming Software Engineer at Palantir. To find out more about me, please visit my [LinkedIn](https://www.linkedin.com/in/leon-so/) or [website](https://leonso.ca)!
+I'm a Software Engineer at Palantir. To find out more about me, please visit my [LinkedIn](https://www.linkedin.com/in/leon-so/) or [website](https://leonso.ca)!
 
 - 🎓 Software Engineering & Management Alumnus at McMaster University 
 - 👨🏻‍💻 Some places that I've worked: IBM, Amazon, Meta, Snowflake, Palantir
